@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dzialy.md",
+                "file": "dzialy/Wyrazenia algebraiczne.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dzialy.md",
+                "file": "dzialy/Wyrazenia algebraiczne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dzialy.md",
+                "file": "dzialy/Wyrazenia algebraiczne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dzialy.md"
+                "file": "dzialy/Wyrazenia algebraiczne.md"
               }
             }
           }
@@ -164,7 +164,12 @@
   },
   "active": "fe7cee27e0df0b5f",
   "lastOpenFiles": [
-    "zakres.pdf",
-    "dzialy.md"
+    "dzialy.md",
+    "dzialy/Wyrazenia algebraiczne.md",
+    "dzialy/Liczby rzeczywiste.md",
+    "wzory-matematyczne-2023.pdf",
+    "Liczby.md",
+    "dzialy",
+    "zakres.pdf"
   ]
 }
