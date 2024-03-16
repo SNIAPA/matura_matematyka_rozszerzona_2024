@@ -13,9 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "dzialy.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e17f49191392ab66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dedad86e9dc25a45",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "zakres.pdf"
               }
             }
           }
@@ -85,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "dzialy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "dzialy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "dzialy.md"
               }
             }
           }
@@ -146,9 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa4cf61c85e0997c",
+  "active": "fe7cee27e0df0b5f",
   "lastOpenFiles": [
     "zakres.pdf",
-    "Untitled.md"
+    "dzialy.md"
   ]
 }
